@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "시간내서 공부하자."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Younghoon Son"
@@ -103,9 +103,6 @@ author:
     - label: "yhson1106@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yhson1106@gmail.com"
-    - label: "OnePredict"
-      icon: "fas fa-fw fa-link"
-      url: "https://onepredict.ai"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -115,6 +112,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yhson1106"
+    - label: "OnePredict"
+      icon: "fas fa-fw fa-link"
+      url: "https://onepredict.ai"    
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
