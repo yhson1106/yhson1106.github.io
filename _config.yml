@@ -96,16 +96,16 @@ analytics:
 author:
   name             : "Younghoon Son"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Data Scientist in OnePredict."
+  location         : "Seoul, South Korea."
   email            :
   links:
     - label: "yhson1106@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yhson1106@gmail.com"
-    - label: "Website"
+    - label: "OnePredict"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://onepredict.ai"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
